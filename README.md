@@ -42,5 +42,7 @@ As part of the **Systems Analysis and Development** curriculum, this **Project I
 
 ---
 
-## 📩 Contact
-**Rafael Arcanjo** *Full Stack Developer | Analyst of Development* [LinkedIn](https://www.linkedin.com/in/rafaelarcanjodev) | [GitHub](https://github.com/rafaelarcanjodev)
+## 📩 Contact<br>
+Rafael Arcanjo<br>
+Backend Software Engineer<br>
+[LinkedIn](https://www.linkedin.com/in/rafael-arcanjo-dev) | [GitHub](https://github.com/rafaelarcanjodev)
